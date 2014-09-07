@@ -10,7 +10,7 @@ twitpicが閉鎖するということで急遽作りました
 以下の部分  
 
 dld=/home/usr/twitpic/  
-usrid=usrname  
+usrid=twitpicusrname  
 
 あとは実行して待つだけ  
 
