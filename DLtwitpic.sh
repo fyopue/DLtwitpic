@@ -1,7 +1,7 @@
 #!/bin/bash
 workdir=/tmp/
 dld=/home/usr/twitpic/
-usrid=usrname
+usrid=twitpicusrname
 seed=1
 
 if [ ! -d ${dld} ]
